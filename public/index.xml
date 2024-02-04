@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Teresa&#39;s Blog</title>
+    <link>https://blogger-37f.pages.dev/</link>
+    <description>Recent content on Teresa&#39;s Blog</description>
+    <image>
+      <title>Teresa&#39;s Blog</title>
+      <url>https://avatars.githubusercontent.com/u/133770977?s=400&amp;u=286673f16bf9e041ae16a9306038454ceab35795&amp;v=4</url>
+      <link>https://avatars.githubusercontent.com/u/133770977?s=400&amp;u=286673f16bf9e041ae16a9306038454ceab35795&amp;v=4</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <atom:link href="https://blogger-37f.pages.dev/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

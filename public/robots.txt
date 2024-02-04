@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blogger-37f.pages.dev/sitemap.xml
