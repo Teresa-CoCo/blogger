@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://blogger-37f.pages.dev/"
 title: Teresa's Blog
 paginate: 5
 theme: PaperMod
@@ -98,7 +98,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/<path_to_repo>/content"
+    URL: "https://github.com/Teresa-CoCo/blogger/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
@@ -125,7 +125,7 @@ menu:
       weight: 20
     - identifier: Teresa's Blog
       name: Teresa's Blog
-      url: https://example.org
+      url: https://blogger-37f.pages.dev/
       weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
